@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("HelloWorld")
+	int a=10;
+	printf("%d",a);
 }
